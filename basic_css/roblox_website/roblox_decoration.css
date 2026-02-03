@@ -16,11 +16,23 @@
     border:5px;
 }
 
+.generic-header-style{
+    text-align: center;
+    color:aliceblue;
+    font-size:35px;
+    background-color: black;
+    padding: 5px;
+    border-radius: 25px;
+    border:5px;
+}
+
 .general-img-style{
     padding: 5px;
     border-radius: 25px;
     border: 5px;
     background-color: black;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 .yellow-p-style {
