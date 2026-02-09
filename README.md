@@ -7,8 +7,8 @@ This is the folder where i started to learn html again, remembering alot of stuf
 ## css folder
 Here things get more complex than on the basic html folder, this is where i save more complex things
 
-## final project folder
-While this is likely not the final thing i will be developing in this repo, it is the project i will invest the biggest amount of time in to learn what i still have to learn about html and css. This project will have multiple pages and i will use all my creativity to make it look nice and genuine.                
+## scrapped project folder
+I was developing my biggest css and html project here, but i didn't really see reasons to continue developing it since it will be more of a "grunt force" type of labor to me
 
 ## Quick note
-Just like my python repo, once i learn all the necessary concepts to start developing my own things i will stop investing time into this repository, and then i will invest time on learning about databases and SQL, after that i will start investing time into my flask repository again.
+Ever since i had clear vision of what i wanted to do regarding programming, i don't see any reason to keep contributing to this repo, so it might get abadoned soon (though i will still be active on github)
